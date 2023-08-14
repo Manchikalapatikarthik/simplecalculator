@@ -1,4 +1,7 @@
 # simplecalculator
+javascrit-code-for-simple-calculator
+a project for bharat intern... the topic is simple calculator
+Help me to create a code for simple calculator using css and javascript
 //a project for bharat intern... the topic is simple calculator
 this the colde which i have done for the buttons...
 html
